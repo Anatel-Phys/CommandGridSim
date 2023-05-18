@@ -1,0 +1,42 @@
+﻿  main.cpp
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(87,19): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(91,23): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(106,64): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(106,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(146,43): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(156,42): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(186,100): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(186,84): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(195,84): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(195,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(206,108): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(206,92): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(214,92): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(214,76): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(224,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(224,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(233,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(233,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(295,64): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Programmes\Microsoft Visual Studio 2019\IDE\VC\Tools\MSVC\14.29.30133\include\xmemory(714,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Programmes\Microsoft Visual Studio 2019\IDE\VC\Tools\MSVC\14.29.30133\include\vector(721): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float>(_Alloc &,_Objty *const ,int &,float &&)' en cours de compilation
+          with
+          [
+              _Alloc=std::allocator<Point>,
+              _Ty=Point,
+              _Objty=Point
+          ]
+D:\Programmes\Microsoft Visual Studio 2019\IDE\VC\Tools\MSVC\14.29.30133\include\vector(726): message : voir la référence à l'instanciation de la fonction modèle 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float>(_Alloc &,_Objty *const ,int &,float &&)' en cours de compilation
+          with
+          [
+              _Alloc=std::allocator<Point>,
+              _Ty=Point,
+              _Objty=Point
+          ]
+D:\Programmes\Microsoft Visual Studio 2019\IDE\VC\Tools\MSVC\14.29.30133\include\vector(739): message : voir la référence à l'instanciation de la fonction modèle 'void std::vector<Point,std::allocator<Point>>::_Emplace_back_with_unused_capacity<int&,_Ty>(int &,_Ty &&)' en cours de compilation
+          with
+          [
+              _Ty=float
+          ]
+D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\PatternRecognition\main.cpp(123): message : voir la référence à l'instanciation de la fonction modèle 'void std::vector<Point,std::allocator<Point>>::emplace_back<int&,float>(int &,float &&)' en cours de compilation
+  PatternRecognition.vcxproj -> D:\Créations Persos\Progra\C++\Visual Studio\PatternRecognition\x64\Debug\PatternRecognition.exe
